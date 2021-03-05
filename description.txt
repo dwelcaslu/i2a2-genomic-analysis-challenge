@@ -1,0 +1,9 @@
+[13:56, 2/25/2021] Evandro Barros: Um pequeno exercício
+[13:57, 2/25/2021] Evandro Barros: Na planilha acima temos a análise genômica de 45 pessoas
+[13:57, 2/25/2021] Evandro Barros: São mais de 60 mil gens mapeados
+[13:57, 2/25/2021] Evandro Barros: Queremos saber :
+[13:57, 2/25/2021] Evandro Barros: Quem das 45 pessoas são parentes
+[13:58, 2/25/2021] Evandro Barros: E quem não possui conexão com as amostras de exame
+[13:58, 2/25/2021] Evandro Barros: Entregar em forma de gráfico e explicações em PDF
+[13:59, 2/25/2021] Evandro Barros: Data da entrega: dia 5 Março
+[14:00, 2/25/2021] Evandro Barros: Até meia 23:50
