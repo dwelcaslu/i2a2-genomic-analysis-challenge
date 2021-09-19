@@ -1,0 +1,44 @@
+ATENÇÃO! Hoje não teremos aula mas teremos surpresas! Se você descobriu com o PCA que a máquina que estava propensa 
+a dar defeitos era a maquina numero 2, parabéns, você está correto. Aqueles que enviaram a resposta receberão como 
+prêmio o próximo desafio antes de entrarmos afundo no mercado de opções e seus calculos. O @Celso de Azevedo vai 
+lhes enviar uma planilha com algumas milhares de linhas de código genético e vocês terão que saber quais dos 40 e 
+poucos indivíduos mapeados pertencem a mesma família. O curso continuará apenas com aqueles que desenvolverem um 
+bom trabalho. A entrega será para o dia 22 até meio dia. Enviar para: celso@datah.ai com cópia para 
+evandro@datah.ai. Boa sorte.
+
+
+O arquivo que enviei é um arquivo contendo "read counts" obtidos a partir da atividade genética decorrente da 
+transcrição de DNA->RNA de um conjunto de células de diferentes indivíduos.
+No total temos por volta de 65 mil genes mapeados de 45 pessoas diferentes.
+
+O que queremos saber é quais pessoas são parentes de quais pessoas, e por extensão, quem não tem parentesco.
+Para efeito de análise, podemos compreender que pessoas que são parentes, possuem características genéticas 
+similares.
+
+Na entrega, além do código em formato jupyter notebook, vocês devem montar um relatório (que pode ser derivado 
+do próprio notebook) utilizando a metodologia CRISP-DM com as seguintes sessões:
+
+1. Identificação
+	Nome
+2. Informações gerais
+	A descrição do desafio e os objetivos propostos
+3. Entendimento do problema
+	Como você compreendeu o problema sob uma perspectiva não técnica, definindo um plano preliminar para 
+	atingir os objetivos proposts.
+4. Entendimento dos dados
+	Análise dos dados disponíveis, demonstrando a estratégia para se tornar apto a compreendê-los. 
+	Obviamente, neste momento também devem ser identificados os problemas existentes no dataset.
+5. Preparação dos dados
+	Efetuar as transformações necessárias para que os dados possam ser utilizados para a obtenção dos 
+	objetivos propostas.
+6. Modelagem
+	Aplicação das técnicas conhecidas e calibração dos parâmetros para otimização dos resultados.
+	Detalhar as abordagens, explicando como e porquê foram adotadas.
+7. Avaliação
+	Verificação final dos resultados obtidos a partir dos modelos e suas conclusões 
+8. Implantação
+	Não se aplica para este caso.
+
+Simples assim!
+
+Bom trabalho.
